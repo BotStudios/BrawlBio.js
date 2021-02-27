@@ -34,8 +34,8 @@ brawlbio.search('user', 'joe').then((data) => {
   - ### Types
 
   | Types  | 
-| ------------- | ------------- |
-| GetBy-User : `user`  | GetBy-Tag : `tag` 
+| ------------- | 
+| GetBy-User : `user`  | GetBy-Tag : `tag` |
 
 
 ## Credits 
